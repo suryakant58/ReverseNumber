@@ -20,7 +20,10 @@ namespace ReverseNumber
                 Number = Number / 10;
             }
             Console.WriteLine("Reverse No. is {0}", Reverse);
+            Console.WriteLine("These are changes made after change");
             Console.ReadLine();
+
+            
         }
     }
 }
