@@ -22,6 +22,8 @@ namespace ReverseNumber
             Console.WriteLine("Reverse No. is {0}", Reverse);
             Console.WriteLine("These are changes made after change");
             Console.WriteLine("\n plsease");
+            
+            Console.WriteLine("Hi Dimple i have done the task..and i got how to do..thank your support");
             Console.ReadLine();
 
             
